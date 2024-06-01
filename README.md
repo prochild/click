@@ -1,7 +1,7 @@
 # Click
     click the buttons for automation
     I need some automate clicker. 
-    I think you have the reason why you find this code. 🤔
+    I think you have the same reason why I make this code. 🤔
 
 # Check!!
   - button1_image_path = "next_chapter.png"
